@@ -3,4 +3,4 @@
  A simple tailwind landing page
 
 ## Steps
-https://youtu.be/dFgzHOX84xQ?t=1450
+https://youtu.be/dFgzHOX84xQ?t=2026
